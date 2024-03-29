@@ -1,0 +1,79 @@
+.home{
+    height: 100vh;
+    background:linear-gradient(rgba(0, 0, 0, 0.978) , rgba(0, 0, 0, 0.796) ) , url(../images/books.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.test{
+    animation: typing 15s infinite;
+}
+
+@keyframes typing {
+    0%{
+        color: #DC3545;
+    }
+    5%{
+        color: white;
+    }
+    10%{
+       color: #DC3545;
+    }
+    15%{
+       color: white;
+    }
+    20%{
+       color: #DC3545;
+    }
+    25%{
+       color: white;
+    }
+    30%{
+       color: #DC3545;
+    }
+    35%{
+       color: white;
+
+    }
+    40%{
+       color: #DC3545;
+    }
+    45%{
+       color: white;
+    }
+    50%{
+       color: #DC3545;
+    }
+    55%{
+       color: white;
+    }
+    60%{
+       color: #DC3545;
+    }
+    65%{
+       color: white;
+    }
+    70%{
+       color: #DC3545;
+    }
+    75%{
+       color: white;
+    }
+    80%{
+       color: #DC3545 ;
+    }
+    85%{
+       color: white;
+    }
+    90%{
+       color: #DC3545;
+    }
+    95%{
+       color: white;
+    } 
+    100%{
+       color: #DC3545;
+    }  
+}
+
